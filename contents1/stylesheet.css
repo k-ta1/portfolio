@@ -4,10 +4,7 @@ html{
     line-height: 1.5em;
     color: #333333;
 }
-h2, h3{
-    font-size: 18px;
-    font-weight: bold;
-}
+
 article{
     margin: auto;
     width: 1000px;
@@ -30,7 +27,8 @@ h1 img{
 }
 h2{
     font-size: 18px;
-    margin:0 0 10px 0;    
+    margin:0 0 10px 0;
+    font-weight: bold;
 }
 ol{
     list-style-position: inside;
@@ -58,6 +56,7 @@ section{
 }
 h3{
     font-size: 18px;
+    font-weight: bold;
     margin:0;
     padding:0 0 20px 0;
     border-bottom: 1px solid #DEDEDE;
